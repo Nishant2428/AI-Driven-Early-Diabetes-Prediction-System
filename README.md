@@ -65,5 +65,4 @@ The project uses a diabetes dataset that contains various health attributes. The
 - **Nishant Kumar**  
   Supervised by **Inderdeep Kaur**
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+  
