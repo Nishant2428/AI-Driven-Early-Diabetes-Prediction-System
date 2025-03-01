@@ -5,7 +5,7 @@ import pickle
 from sklearn.preprocessing import MinMaxScaler # type: ignore
 
 app = Flask(__name__)
-model = pickle.load(open('flask/model.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
 
 dataset = pd.read_csv('diabetes.csv')
 
